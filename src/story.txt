@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Once upon a time in downtown detroit, there lived two great friends named Hassan and Barak.
 Hassan and barack were childhood friends.
+=======
+Once upon a time in mystical Shangri-La, there lived two great friends named Hassan and Barak.
+Bryan and David were childhood friends.
+>>>>>>> 9ea532d83d44841273619293a36562f38cc458d9
 They went school together and even got their first job at the same place 
 People who knew them never seen Hassan without Barak, nor Barak without Hassan.
-Hassan and Barak fell in love with the same girl.
+Bryan and David fell in love with the same girl.
+But then life took another turn and Bryan decided ti join Java Botcamp
